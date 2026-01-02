@@ -8,6 +8,8 @@ Implementation of the Ralph Wiggum technique for iterative AI development loops 
 
 Ralph is a development technique for autonomous iterative AI loops. At its core:
 
+> **Original article:** [https://ghuntley.com/ralph/](https://ghuntley.com/ralph/) by Geoffrey Huntley
+
 ```bash
 while :; do cat PROMPT.md | pi ; done
 ```

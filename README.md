@@ -146,10 +146,6 @@ Expected output:
 === All basic tests passed! ===
 ```
 
-## Code Review
-
-All code was reviewed with fresh eyes. See `docs/code-review-fixes.md` for details on issues found and fixed.
-
 ## Credits
 
 - **Original technique:** Geoffrey Huntley - [https://ghuntley.com/ralph/](https://ghuntley.com/ralph/)
